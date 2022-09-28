@@ -10,9 +10,9 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=nord_dark" height="200" width="700"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=nord_dark" height="150" width="550"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1ovac&theme=nord_dark" height="200" width="300"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s1ovac&theme=nord_dark" height="200" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1ovac&theme=nord_dark" height="150" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s1ovac&theme=nord_dark" height="150" width="250"/>
 </div>
