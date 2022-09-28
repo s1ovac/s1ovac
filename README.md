@@ -10,3 +10,5 @@
   <img src="https://img.shields.io/badge/habr-blue?&style=for-the-badge&logoColor=white&logoWidth=40" alt="Habr Badge"/>
   </a>
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s1ovac)](https://git.io/streak-stats)
