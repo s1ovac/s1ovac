@@ -12,9 +12,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1ovac" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1ovac&layout=compact" height="150"/>
-</div>
-<div id="header" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=solarized_dark" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=nord_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1ovac&theme=nord_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s1ovac&theme=nord_dark" height="200"/>
 </div>
