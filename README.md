@@ -10,7 +10,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=nord_dark" width="530"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=nord_dark" width="600"/>
 </div>
 <div id="header" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1ovac&theme=nord_dark" width="260"/>
