@@ -11,6 +11,10 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ovac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s1ovac)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1ovac" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1ovac&layout=compact" height="150"/>
+</div>
+<div id="header" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1ovac&theme=solarized_dark" width="500"/>
+</div>
