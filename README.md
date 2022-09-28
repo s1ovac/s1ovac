@@ -11,4 +11,6 @@
   </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ovac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s1ovac)](https://git.io/streak-stats)
