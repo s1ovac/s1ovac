@@ -6,4 +6,7 @@
   <a href="https://vk.com/slovacccc">
   <img src="https://img.shields.io/badge/VK-blue?&style=for-the-badge&logoColor=blue&logoWidth=40" alt="Vkontakte Badge"/>
   </a>
+  <a href="https://habr.com/ru/users/slovacccc/">
+  <img src="https://img.shields.io/badge/habr-blue?&style=for-the-badge&logoColor=white&logoWidth=40" alt="Habr Badge"/>
+  </a>
 </div>
